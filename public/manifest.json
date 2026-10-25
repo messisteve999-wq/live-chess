@@ -1,0 +1,10 @@
+{
+  "name": "live-chess",
+  "short_name": "live-chess",
+  "description": "Joue aux échecs avec le monde entier",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "icons": []
+}
