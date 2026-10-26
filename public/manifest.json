@@ -1,10 +1,25 @@
 {
-  "name": "live-chess",
-  "short_name": "live-chess",
-  "description": "Joue aux échecs avec le monde entier",
+  "name": "Live-IA V2",
+  "short_name": "Live-IA",
+  "description": "Jeu d’échecs en ligne avec plateau en relief et ambiances musicales.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0b1020",
   "theme_color": "#111827",
-  "icons": []
+  "icons": [
+    {
+      "src": "/queen-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/queen-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
